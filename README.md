@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ghirihari
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently doing Msc. Software Systems at Coimbatore Institute of Technology
-- 📫 How to reach me at ghirihari@gmail.com
+- 📫 Reach me at ghirihari@gmail.com
 
 <!---
 ghirihari/ghirihari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
